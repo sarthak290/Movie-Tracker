@@ -1,4 +1,4 @@
-# movie_tracker
+# movie_tracker (Yellow Class assignment)
 
 ### A simple movie tracker app with google auth made with flutter.
 
