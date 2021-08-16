@@ -1,6 +1,6 @@
 # movie_tracker
 
-A new Flutter project.
+### A simple movie tracker app with google auth made with flutter.
 
 ## Getting Started
 
